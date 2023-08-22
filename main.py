@@ -138,7 +138,6 @@ async def anti_mention(ctx):
                             await ctx.author.remove_roles(muteRole)
 
 
-to = 'MTE0MTY0MjQ2NDY0NjY2NDI2NA'
-kn = 'D8HXhhPcsEAnXQz9ci6_x6EvWLAH3vBHh6vORw'
-
-client.run(to + '.GYQ3S2.'+ kn)
+to = 'OTU2MTgyMTM5OTk1NTUzODQy'
+kn = 'xKVurHeCO-L9Q'
+client.run(to +".Go0Xzd.t02j4bXVyuFhMJJrOQpRqnRZ_"+kn)
